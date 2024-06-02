@@ -1,13 +1,19 @@
-1716653565051 /about?myname=afia&school=uni&office=astralHEADnew Request
-1716653569414 /about?myname=afia&school=uni&office=astralGETnew Request
-1716653569436 /about?myname=afia&school=uni&office=astralHEADnew Request
-1716653569441 /about?myname=afia&school=uni&office=astralHEADnew Request
-1716653569479 /favicon.icoGETnew Request
-1716653569504 /about?myname=afia&school=uni&office=astralHEADnew Request
-1716653731784 /about?myname=afia&school=uni&office=astralHEADnew Request
-1716653742089 /signupGETnew Request
-1716653742110 /signupHEADnew Request
-1716653742115 /signupHEADnew Request
-1716653742146 /favicon.icoGETnew Request
-1716653742168 /signupHEADnew Request
-1716653767448 /signupHEADnew Request
+
+
+1717300576202:::1 HEAD: /api/users
+
+1717300580282:::1 GET: /api/users
+
+1717300580297:::1 HEAD: /api/users
+
+1717300580322:::1 HEAD: /api/users
+
+1717300580381:::1 HEAD: /api/users
+
+1717300631360:::1 GET: localhost
+
+1717300631403:::1 HEAD: localhost
+
+1717300631407:::1 HEAD: localhost
+
+1717300631469:::1 HEAD: localhost
